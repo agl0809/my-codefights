@@ -1,5 +1,3 @@
-//Basic solution
-
 function F(n) {
     var s = '';
 
